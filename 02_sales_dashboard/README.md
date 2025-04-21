@@ -50,15 +50,19 @@ Debes subir un archivo CSV que contenga al menos las siguientes columnas:
 
 ## 📊 Ejemplo de Resultados
 Métricas resumen automáticas
+
 Totales agregados de ventas, ítems y tickets promedio.
 
 Visualización temporal de ventas
+
 Línea de evolución de ingresos por día.
 
 Ranking de productos y ubicaciones
+
 Barras y tortas interactivas con Plotly.
 
 Análisis por método de pago
+
 Barras verticales con frecuencia de pagos.
 
 ---
@@ -66,9 +70,13 @@ Barras verticales con frecuencia de pagos.
 ## 🧩 Tecnologías utilizadas
 
 Herramienta	Uso principal
+
 Python 3	Lenguaje principal del análisis
+
 Pandas	Manipulación y análisis de datos
+
 Plotly Express	Visualizaciones interactivas
+
 Google Colab	Entorno de ejecución recomendado
 
 ---
