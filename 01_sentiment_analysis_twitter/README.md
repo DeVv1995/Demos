@@ -36,7 +36,7 @@ Asegúrate de que tu archivo CSV tenga al menos las siguientes columnas:
 
 ---
 
-##🧩 Tecnologías utilizadas
+## 🧩 Tecnologías utilizadas
 
 Python 3
 
@@ -52,9 +52,10 @@ Google Colab (recomendado)
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Danny Venegas
+
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
 🌐 //
