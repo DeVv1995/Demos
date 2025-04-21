@@ -38,17 +38,15 @@ Asegúrate de que tu archivo CSV tenga al menos las siguientes columnas:
 
 ## 🧩 Tecnologías utilizadas
 
-Python 3
 
-Pandas
-
-TextBlob
-
-Matplotlib / Seaborn
-
-Scikit-learn (confusion matrix)
-
-Google Colab (recomendado)
+| Herramienta             | Uso principal                                           |
+|--------------------------|--------------------------------------------------------|
+| 🐍 **Python 3**            | Lenguaje principal de desarrollo                       |
+| 🐼 **Pandas**              | Manipulación y análisis de datos                       |
+| 🧠 **TextBlob**            | Clasificación de sentimientos (NLP)                   |
+| 📊 **Matplotlib / Seaborn**| Visualización de datos (gráficos estáticos)           |
+| 📉 **Scikit-learn**        | Métricas de evaluación (matriz de confusión)          |
+| ☁️ **Google Colab**        | Entorno de ejecución recomendado en la nube           |
 
 ---
 
