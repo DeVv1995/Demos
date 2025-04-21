@@ -36,18 +36,6 @@ Asegúrate de que tu archivo CSV tenga al menos las siguientes columnas:
 
 ---
 
-## 🧰 Requisitos
-
-Este proyecto puede ejecutarse localmente o en Colab. A continuación, los paquetes requeridos:
-
-```bash
-pip install -r requirements.txt
-📊 Ejemplo de Resultados
-Distribución de sentimientos (original vs predicho)
-
-Matriz de confusión
-
-Explicación textual del análisis
 
 🧩 Tecnologías utilizadas
 Python 3
