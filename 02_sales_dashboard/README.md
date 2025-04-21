@@ -48,7 +48,7 @@ Debes subir un archivo CSV que contenga al menos las siguientes columnas:
 ---
 
 
-📊 Ejemplo de Resultados
+## 📊 Ejemplo de Resultados
 Métricas resumen automáticas
 Totales agregados de ventas, ítems y tickets promedio.
 
@@ -61,15 +61,21 @@ Barras y tortas interactivas con Plotly.
 Análisis por método de pago
 Barras verticales con frecuencia de pagos.
 
-🧩 Tecnologías utilizadas
+---
+
+## 🧩 Tecnologías utilizadas
 
 Herramienta	Uso principal
 Python 3	Lenguaje principal del análisis
 Pandas	Manipulación y análisis de datos
 Plotly Express	Visualizaciones interactivas
 Google Colab	Entorno de ejecución recomendado
+
+---
 👨‍💻 Autor
+
 Danny Venegas
+
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
 🌐 //
