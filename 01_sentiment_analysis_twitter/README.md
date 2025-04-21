@@ -36,8 +36,7 @@ Asegúrate de que tu archivo CSV tenga al menos las siguientes columnas:
 
 ---
 
-
-🧩 Tecnologías utilizadas
+##🧩 Tecnologías utilizadas
 
 Python 3
 
@@ -50,6 +49,8 @@ Matplotlib / Seaborn
 Scikit-learn (confusion matrix)
 
 Google Colab (recomendado)
+
+---
 
 👨‍💻 Autor
 
