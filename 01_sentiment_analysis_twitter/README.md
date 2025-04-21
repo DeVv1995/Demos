@@ -38,6 +38,7 @@ Asegúrate de que tu archivo CSV tenga al menos las siguientes columnas:
 
 
 🧩 Tecnologías utilizadas
+
 Python 3
 
 Pandas
@@ -51,6 +52,7 @@ Scikit-learn (confusion matrix)
 Google Colab (recomendado)
 
 👨‍💻 Autor
+
 Danny Venegas
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
