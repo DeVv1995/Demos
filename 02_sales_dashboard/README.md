@@ -73,7 +73,9 @@ Danny Venegas
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
 🌐 //
+
 💼 www.linkedin.com/in/danny-venegas-275726231
+
 📧 venegas.danny570@gmail.com
 
 ¡Gracias por visitar este proyecto!
