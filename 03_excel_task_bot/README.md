@@ -51,7 +51,6 @@ Utiliza el dataset de la competencia de Kaggle:
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
 🌐 //
-
 📧 venegas.danny570@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/danny-venegas-275726231)
 
