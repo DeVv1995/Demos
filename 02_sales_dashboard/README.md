@@ -71,17 +71,16 @@ Debes subir un archivo CSV que contenga al menos las siguientes columnas:
 
 
 ---
-👨‍💻 Autor
 
-Danny Venegas
+## 👨‍💻 Autor
 
+**Danny Venegas**  
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
-🌐 //
+🌐 [Tu portafolio web](#)  
+📧 venegas.danny570@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/danny-venegas-275726231)
 
-💼 www.linkedin.com/in/danny-venegas-275726231
+---
 
-📧 venegas.danny570@gmail.com
-
-¡Gracias por visitar este proyecto!
-Si te pareció interesante, no dudes en dejar una ⭐ y explorar el resto del portafolio.
+⭐ ¡Gracias por visitar este proyecto! No olvides explorar el resto del portafolio.
