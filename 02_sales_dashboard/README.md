@@ -77,7 +77,7 @@ Debes subir un archivo CSV que contenga al menos las siguientes columnas:
 **Danny Venegas**  
 Ingeniero en Computación | Desarrollador Full Stack | UX/UI Enthusiast
 
-🌐 [Tu portafolio web](#)  
+🌐 [Portafolio web](#)  
 📧 venegas.danny570@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/danny-venegas-275726231)
 
