@@ -45,9 +45,9 @@ A continuación, encontrarás una serie de proyectos individuales, cada uno aloj
 
 Si deseas colaborar o tienes alguna consulta técnica, no dudes en escribirme:
 
-- 📧 Correo: venegas.danny570@gmail.com
-- 🌐 Portafolio Web: //
-- 💼 LinkedIn: www.linkedin.com/in/danny-venegas-275726231
+🌐 [Portafolio Web](#)  
+📧 venegas.danny570@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/danny-venegas-275726231)
 
 ---
 
