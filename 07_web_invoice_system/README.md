@@ -14,7 +14,7 @@ El usuario introduce su información personal, experiencia, habilidades, proyect
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GS3WNLW3Jp9CSN1nORP6vjmWfpbnMWeJ?usp=sharing)
 
 ---
 
