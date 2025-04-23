@@ -17,7 +17,7 @@ Este proyecto implementa un sistema recomendador de películas utilizando técni
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16fgl5fW9qDLX-dh0h7lxgPLbmNtLuY-W?usp=sharing)
 
 ---
 
