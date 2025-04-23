@@ -18,7 +18,7 @@ Este proyecto permite automatizar tareas comunes de procesamiento de datos en ar
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1702BVYrZuOeqimWc7r_hDGDoC0SUnjQV?usp=sharing)
 
 1. Sube tu archivo Excel.
 2. El sistema realizará automáticamente las tareas de limpieza, análisis y visualización.
