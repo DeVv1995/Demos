@@ -24,7 +24,7 @@ Este proyecto permite crear un dashboard interactivo de análisis de ventas a pa
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WK1SLqSxP4d3Z2FQnWKaFmChQC6Tylo1?usp=sharing)
 
 ---
 
