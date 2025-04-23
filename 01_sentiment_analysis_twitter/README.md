@@ -18,7 +18,7 @@ Este proyecto realiza un análisis de sentimiento sobre un conjunto de tweets ut
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/drive/1l9kPoBGLwX7XxEUqxuGruNq6VIPCjnJL?usp=drive_link))
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l9kPoBGLwX7XxEUqxuGruNq6VIPCjnJL?usp=sharing)
 
 ---
 
