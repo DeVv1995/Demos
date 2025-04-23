@@ -29,7 +29,7 @@ Este proyecto no requiere datasets locales. Simplemente proporciona cualquier **
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## 🧩 Tecnologías utilizadas
 
 | 🛠️ Herramienta     | Uso principal                                 |
 |--------------------|-----------------------------------------------|
