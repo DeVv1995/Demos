@@ -50,7 +50,7 @@ Asegúrate de que el archivo contenga al menos las columnas:
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## 🧩 Tecnologías utilizadas
 
 | Herramienta               | Uso principal                                  |
 |---------------------------|------------------------------------------------|
