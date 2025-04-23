@@ -19,7 +19,7 @@ Este proyecto permite extraer noticias de cualquier sitio web y generar un resum
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e261tEH1KyADax7lZrw59Uy4HRc1WZ79?usp=sharing)
 
 ---
 
