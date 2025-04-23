@@ -49,12 +49,6 @@ Puedes ejecutar el proyecto directamente en Google Colab:
 4. Haz clic en **"Generar Página Web"**.
 5. El archivo HTML se descargará automáticamente en tu computadora.
 
----
-
-## 📁 Estructura de Salida
-
-```html
-pagina_web_personal.html
 
 ---
 
