@@ -18,7 +18,7 @@ Este proyecto explora y predice la evolución de los precios promedio de product
 
 Puedes ejecutar el proyecto directamente en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bagkIP9AlPb9uuAR-7c7cQ3KpVHTi8Do?usp=sharing)
 
 ---
 
