@@ -50,7 +50,7 @@ Puedes descargar un ejemplo desde Kaggle:
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## 🧩 Tecnologías utilizadas
 
 | Herramienta               | Uso principal                                  |
 |---------------------------|------------------------------------------------|
