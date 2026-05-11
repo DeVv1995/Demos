@@ -25,6 +25,7 @@ A continuación, encontrarás una serie de proyectos individuales, cada uno aloj
 | `05_movie_recommender/` | Sistema recomendador de películas basado en similitud de contenido. |
 | `06_news_scraper_summarizer/` | Scraper de noticias en tiempo real con resumen automático por IA. |
 | `07_web_invoice_system/` | Mini sistema de facturación web responsive con backend ligero. |
+| `08_chatbot_gemini/` | Chatbot con memoria usando LangChain + OpenAI o Gemini API |
 
 > ⚙️ Todos los notebooks están diseñados para ejecutarse fácilmente en Google Colab.
 
